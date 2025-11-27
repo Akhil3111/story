@@ -1,1 +1,2 @@
 chapter 3 text file 
+chapter 3 modified version
